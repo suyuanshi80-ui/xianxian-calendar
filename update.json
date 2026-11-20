@@ -1,6 +1,7 @@
 {
   "versionCode": 17,
   "versionName": "1.0.16",
-  "apkUrl": "https://example.com/pending.apk",
-  "notes": "1. 修正助手输入栏\n2. 增加今天的穆罕麦斯\n3. 补充西北常见叫法"
+  "apkUrl": "https://github.com/suyuanshi80-ui/xianxian-calendar/releases/download/v1.0.16/xianxian-1.0.16.apk",
+  "notes": "1. 修正助手输入栏\n2. 增加今天的穆罕麦斯\n3. 补充西北常见叫法\n4. 内置在线更新",
+  "sha256": "c1cba14778e9b5bb16ce2aee5d5834da75c5bf65902e516ee34009566593ba09"
 }
