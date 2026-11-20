@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.18",
-  "apkUrl": "https://github.com/suyuanshi80-ui/xianxian-calendar/releases/download/v1.0.18/Sufi-1.0.18.apk",
-  "notes": "1. 去掉图标上的“苏菲”文字\n2. 图案居中放大\n3. 在线更新测试版本",
-  "sha256": "39d5876d4f6849061e1260211f589788a1919c72be38a62bb3eda0393196938d"
+  "versionCode": 20,
+  "versionName": "1.0.19",
+  "apkUrl": "https://ghproxy.net/https://github.com/suyuanshi80-ui/xianxian-calendar/releases/download/v1.0.19/Sufi-1.0.19.apk",
+  "notes": "1. 更新改为 App 内系统下载器，不再依赖浏览器\n2. 修复无法打开下载地址\n3. 图标保持无文字居中图案",
+  "sha256": "37ce7e2d72def318406e70493d9da11b9b3c83705617c2d5eb251bf0a134d1b5"
 }
