@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.20",
-  "apkUrl": "https://ghproxy.net/https://github.com/suyuanshi80-ui/xianxian-calendar/releases/download/v1.0.20/Sufi-1.0.20.apk",
-  "notes": "在线更新流程测试版本，无功能变化。",
-  "sha256": "b8de86f1a0abd6b568f7891e7c513f96f6a5a93489c477b3d172ff3224c644c0"
+  "versionCode": 22,
+  "versionName": "1.0.21",
+  "apkUrl": "https://github.com/suyuanshi80-ui/xianxian-calendar/releases/download/v1.0.21/Sufi-1.0.21.apk",
+  "notes": "1. 更新包改用直连下载\n2. 正在下载时不再重复弹更新/重复下载\n3. 已下载时提示去通知栏安装",
+  "sha256": "93c12f65ca5ead765e5c620ff6f69db6b56e6c0b32bd82820c25d695b24e5ea4"
 }
